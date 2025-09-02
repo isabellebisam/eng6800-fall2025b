@@ -5,4 +5,4 @@ Test repository for Intro to T&T
 - [Page2](page2.md)
 
 Here is a picture of a cute kitten!
-![Picture of cute kitten]
+![Picture of cute kitten](cute-kitten.jpg)
