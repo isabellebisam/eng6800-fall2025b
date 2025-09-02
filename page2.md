@@ -1,5 +1,5 @@
 # This is page 2!
 
-## This is a seconf page we have created.
+## This is a second page we have created.
 
-[Cliqck here to go back to page 1]
+[Click here to go back to page 1]
