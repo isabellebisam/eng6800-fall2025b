@@ -2,4 +2,4 @@
 Test repository for Intro to T&T
 
 ## Here are some links
-- [Page2](Page2.md)
+- [Page2](page2.md)
